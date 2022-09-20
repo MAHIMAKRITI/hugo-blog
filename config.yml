@@ -1,0 +1,35 @@
+baseURL: ""
+languageCode: en-us
+title: Mahima Kriti
+theme: PaperMod
+
+params:
+  homeInfoParams:
+    Title: 'Hello Stranger'
+    Content: 'Welcome to my blog'
+  socialIcons:
+      - name: linkedin
+        url: 'https://nunocoracao.com/projects/'
+      - name: instagram
+        url: 'https://nunocoracao.com/projects/'
+      - name: github
+        url: 'https://nunocoracao.com/projects/'
+  
+  ShowBreadcrumbs: true
+
+  ShowReadingTime: true
+
+  ShowShareButtons: true
+
+  ShowPostNavLinks: true
+
+menu:
+  main:
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
+    - identifier: about
+      name: About me
+      url: /about/
+      weight: 10
