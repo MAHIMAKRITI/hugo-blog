@@ -40,12 +40,13 @@ From the visualization above its evident that people use the bikes more frequent
 - Chicago has a warm climate from May to September while it has freezing temperatures and snowfall from December - February. So naturally people choose to use the bikes during the summer months.
 - Secondly, December and January are festive months and businesses and offices shutdown for a couple of weeks during the holiday season and since a lot of our annual members use their cycles to commute to work , its understandable that the bike usage dips during those months.
 
-![alt text for screen readers](/images/cyclistic4.JPG "Daily rides by both categories")
+![alt text for screen readers](/images/cyclistic4.JPG "Average Ride duration")
 
 Annual riders use the bikes for a much shorter duration than casual riders. Since most of our annual riders use the bikes to ride to work hence the ride_lengths are comparitively smaller. Also we see that since the maximum ride length is approximately 17 mins for annual riders so that translates to 10-15 miles on average.
 <br>
 <br>
-![alt text for screen readers](/images/cyclistic5.JPG "Daily rides by both categories")
+
+![alt text for screen readers](/images/cyclistic5.JPG "Hourly rides by both categories")
 From the above histplot we observe 2 things:
 
 - The member category has twin peaks - one at 8 am and the other at 5pm. This clearly proves that members use it for work purposes

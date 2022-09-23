@@ -4,12 +4,11 @@ line: "bold"
 
 url: "/about/"
 summary: about me
-cover:
-    image: images/profile.JPG
-    alt: 'This is about cyclistic'
-    imageWidth: 10 # custom size
-    imageHeight: 60 # custom size
 ---
 ***
-> Furthermore, the two cornerstones of experiential learning as a part of MAM at the London Business School - the LondonLAB and Global Immersion Field Trip (GIFT) - will improve my learning manifold, by helping me further apply the theoretical concepts I acquire in the classroom through hands-on experience with actual business problems. Besides, diversity is at the very heart of the MAM programme; being surrounded by peers and faculty of different backgrounds, cultures and experience levels will foster my holistic development, thereby moulding me as a well-rounded professional with a global perspective. Additionally, I am excited to bolster my novice proficiency in Spanish since learning a second language is an exit criterion for MAM at LBS.
+![Timeline of my life's key events](/images/Born_80.png "Story of my life")
+## 
+Hi, my name is Mahima Kriti. Welcome to my blog. I am a software developer by profession but data viz is my passion.In this blog, I post about things I explore in the data analytics domain. I am fascinated by data visualisation particularly as it helps paint a very memorable picture about data. For example, do we really understand how much 1 billion dollars is (You can see such visualisations [here](https://informationisbeautiful.net/topic/money-economy/)).<br>
+
+You can download my resume here.
 ***
