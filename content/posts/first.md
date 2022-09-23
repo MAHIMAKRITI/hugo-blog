@@ -60,6 +60,6 @@ Having analysed the data for 2021 these are my **recommendations** :
 > 4. The digital and physical marketing of Cyclistic should be done more between 3-6 pm because most of our casual riders use the bike at that time of the day.
 > 5. Out of the 3 categories , annual members do not use the docked bike at all. This could be a data issue as well but otherwise Cyclistic needs to conduct research as to why annual members do not prefer to use the docked bikes. If we are able to dtermine that then perhaps we can convert more casual docked bike riders to annual members.
 
-To see code please go to my [github](https://github.com/MAHIMAKRITI/Cyclistic_EDA)
+To see the code please go to my [github](https://github.com/MAHIMAKRITI/Cyclistic_EDA)
 ***
 
