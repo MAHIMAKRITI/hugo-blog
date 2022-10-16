@@ -20,12 +20,12 @@ The first visualization I made was of the episode ratings of the entire series, 
 <br>
 ![Summary of ratings of each season](/images/friends1.png "Summary of ratings of each season")
 Season 4 had one of the lowest rated epsiodes while the last episode of the show had the highest rating.<br>
-I also wanted to look into who wrote the episodes and see if there were any particular writers who did the most episodes.
+I also wanted to look into who directed the episodes and see if there were any particular directors who did the most episodes.
 
 Kevin Bright and Gary Holvorson each directed fifty-four episodes each while David Schwimmer(Ross) also put on his director hat on and directed ten episodes.
 ![Which director directed the most episodes?](/images/friends2.png "Directors of each episode")
 
-As I was interested to see what names appeared most in the episode titles, so I made a wordcloud of hhe episode titles. The name of the titular characters do seem to be equally used except Rachel's name which seems a bit more pronounced than the others.
+As I was interested to see what names appeared most in the episode titles, so I made a wordcloud of the episode titles. The name of the titular characters do seem to be equally used except Rachel's name which seems a bit more pronounced than the others.
 ![wordcloud of the episode titles](/images/friends3.png)
 
 
